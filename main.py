@@ -6,7 +6,7 @@ loan_amount = float(input("Enter the loan amount you're requesting: "))
 # Define the loan qualification criteria
 min_credit_score = 650
 min_annual_income = 25000
-max_loan_amount = 100002
+max_loan_amount = 100000
 
 # Check if the user qualifies for the loan
 if credit_score >= min_credit_score:
